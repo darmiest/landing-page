@@ -1,2 +1,2 @@
 # landing-page
- teste
+https://landing-page-teste-daiana.netlify.app/
