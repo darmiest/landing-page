@@ -1,0 +1,132 @@
+.bg-cover {
+background-size: cover !important;
+position: absolute;
+width: 1440px;
+height: 450px;
+left: 0px;
+top: 0px;
+background: #0B27FA;
+}
+
+.cashforce{
+  position: absolute;
+  left: 11.04%;
+  right: 77.15%;
+  top: 20.03%;
+  bottom: 91.51%;
+}
+
+.ebook{
+position: absolute;
+width: 107px;
+height: 40px;
+left: 159px;
+top: 162px;
+font-family: 'DM Sans', sans-serif;
+font-size: 24px;
+line-height: 52px;
+letter-spacing: 0.15em;
+text-transform: uppercase;
+color: #00BA91;
+}
+
+.texto-1{
+position: absolute;
+width: 510px;
+height: 205px;
+left: 160px;
+top: 204px;
+text-align: left;
+font-family: 'DM Sans', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 52px;
+color: #FFFFFF;
+}
+
+.title-form{
+  font-size: 20px;
+}
+
+.conteudo-esquerda{
+position: absolute;
+width: 449px;
+height: 85px;
+left: 832px;
+top: 518px;
+font-family: 'DM Sans', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 40px;
+color: #021B51;
+}
+
+#border {
+  border: 1px solid #021B51;
+  box-sizing: border-box;
+}
+
+.btn{
+  background-color: #00BA91;
+  margin-top: 7%;
+  margin-left: 54%;
+  width: 207px;
+  height: 40px;
+  border: 1px;
+  border-radius: 6px;
+  color: #021B51;
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+
+.conteudo-direita{
+position: absolute;
+width: 450px;
+height: 520px;
+left: 159px;
+top: 518px;
+font-family: 'DM Sans', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 32px;
+color: #444548;
+}
+
+.cashforce-copyright{
+  position: absolute;
+  width: 140px;
+  height: 29px;
+  left: 5px;
+  top: 640px;
+  font-family: 'DM Sans', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 180%;
+  color: #021B51;
+  }
+
+.linkedin{
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 230px;
+  top: 635px;
+  }
+
+#quero-conhecer{
+  position: absolute;
+  left: 10%;
+  width: 175px;
+  top: 600px; 
+  font-family: 'DM Sans', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 18px;
+  text-align: center;
+  color: #021B51;
+}
